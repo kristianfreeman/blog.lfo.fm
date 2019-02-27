@@ -1,7 +1,7 @@
 ---
 title: Hello World
 description: "LFO is now live!"
-date: "2019-02-27T22:12:03.284Z"
+date: "2019-02-26T22:12:03.284Z"
 ---
 
 Hey, world! [Kristian](https://twitter.com/signalnerve) from LFO here - I'm super excited to be writing the first post on our blog!
