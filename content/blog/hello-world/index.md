@@ -1,5 +1,6 @@
 ---
 title: Hello World
+description: "LFO is now live!"
 date: "2019-02-27T22:12:03.284Z"
 ---
 
