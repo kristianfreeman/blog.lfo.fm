@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `LFO.fm Blog`,
+    author: `The LFO Team`,
+    description: `The blog for LFO, a music gear rental marketplace`,
+    siteUrl: `https://blog.lfo.fm/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `lfoapp`,
     },
   },
   plugins: [
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `LFO Blog`,
+        short_name: `LFO`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

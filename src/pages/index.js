@@ -18,6 +18,11 @@ class BlogIndex extends React.Component {
           title="All posts"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
+        <h4>
+          <a href="https://lfo.fm" style={{ color: "black" }}>
+            Rent keyboards, synthesizers, guitars, and more →
+          </a>
+        </h4>
         <Bio />
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
