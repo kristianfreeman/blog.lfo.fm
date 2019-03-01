@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `LFO.fm Blog`,
+    title: `LFO.fm`,
     author: `The LFO Team`,
     description: `The blog for LFO, a music gear rental marketplace`,
     siteUrl: `https://blog.lfo.fm/`,

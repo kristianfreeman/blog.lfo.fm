@@ -21,7 +21,6 @@ function Bio() {
           <div
             style={{
               display: `flex`,
-              marginBottom: rhythm(2.5),
             }}
           >
             <Image
@@ -38,11 +37,9 @@ function Bio() {
               }}
             />
             <p>
-              Music gear from around the world, at your doorstep.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                Follow us on Twitter!
-              </a>
+              Looking for our rental marketplace? We've paused that project to
+              focus on building a community for musicians: if you're interested,
+              join our <a href="https://discord.gg/AZSNx6V">Discord</a>!
             </p>
           </div>
         )
