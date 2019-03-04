@@ -38,8 +38,7 @@ function Bio() {
             />
             <p>
               Looking for our rental marketplace? We've paused that project to
-              focus on building a community for musicians: if you're interested,
-              join our <a href="https://discord.gg/AZSNx6V">Discord</a>!
+              focus on building a community for musicians: coming soon!
             </p>
           </div>
         )
